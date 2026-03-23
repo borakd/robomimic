@@ -1,0 +1,16 @@
+h5py
+tqdm
+huggingface_hub
+torch
+psutil
+tqdm
+termcolor
+tensorboard
+tensorboardX
+imageio
+imageio-ffmpeg
+matplotlib
+egl_probe>=1.0.1
+transformers==4.41.2
+diffusers==0.11.1
+numpy>=1.13.3
